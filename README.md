@@ -1,7 +1,7 @@
-#Capstone Project: Recommender System for Netflix Content\
-##Summary:\
+Capstone Project: Recommender System for Netflix Content\
+Summary:\
 The Netflix library continues to grow, presenting users with a challenge to discover content that aligns with their preferences. The main goal of this project is to develop a recommender system that improves user experience by suggesting relevant movies and TV shows based on their viewing history and preferences.\
-After completing data processing, the dataset is now ready for the machine learning (ML) stage. Each step of the data processing is detailed with accompanying commands.\
+After completing data processing, the dataset is now ready for the machine learning (ML) stage. Each step of the data processing is detailed with accompanying commands.
 
 ##Netflix Dataset Attributes:\
 show_id: A unique identifier for each Movie/TV Show in the dataset.\
@@ -27,4 +27,4 @@ in the first model, I have just entered the description,and in the second one I 
 Recommender systems main step:\
 1-Vector Space Model\
 2-TF-IDF Matrix: The TF-IDF matrix is a sparse matrix where each row corresponds to a document and each column corresponds to a unique term in the vocabulary. The values in the matrix represent the TF-IDF scores for each term in each document.\
-3-linear kernel: is used to compute the cosine similarity between documents represented as vectors in a vector space model.\
+3-linear kernel: is used to compute the cosine similarity between documents represented as vectors in a vector space model.
