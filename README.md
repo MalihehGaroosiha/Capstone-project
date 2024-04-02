@@ -25,3 +25,4 @@ Fourth step: apply content-based recommended systems to the data because the att
 and according to the article attributes like Description, cast, and Director are the effective attributes to recommend the Movie. 
 in the first model, I have just entered the description, and in the second one I have entered the director, cast, title, list_in, and description.
   
+recommender systems process
