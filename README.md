@@ -1,4 +1,4 @@
-**Capstone Project: Recommender System for Netflix Dataset**\
+**Capstone Project: Recommender Systems for Netflix Dataset**\
 **Summary:**\
 The Netflix library continues to grow, presenting users with a challenge to discover content that aligns with their preferences. The main goal of this project is to develop a recommender system that improves user experience by suggesting relevant movies and TV shows based on their viewing history and preferences.\
 After data processing, the dataset is now ready for the machine learning (ML) stage. Each step of the data processing is detailed with accompanying commands.
