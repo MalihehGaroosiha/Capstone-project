@@ -18,7 +18,7 @@ listed_in: Genre of the Movie/TV Show, indicating its category or theme.\
 description: A summary or synopsis of the Movie/TV Show.\
 
 In this project, I want to apply a machine learning algorithm(Recommender systems) to list 10 TV shows or movies ordered based on their similarity to the first choice. \
-first step: Exploring data including charts frequently tables and missing data, outliers, and ...\
+first step: Exploring data including charts, frequently, tables and missing data, outliers, and ...\
 Second step: Handling missing data, outliers, changing data type, and, ...\
 Third step: preprocessing for ML algorithms like changing text to lower-case \
 Fourth step: apply content-based recommended systems to the data because the attributes for creating the model need domain knowledge
