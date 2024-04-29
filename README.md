@@ -28,3 +28,4 @@ in the first model, I have just entered the description, and in the second one I
 1-Vector Space Model\
 2-TF-IDF Matrix: The TF-IDF matrix is a sparse matrix where each row corresponds to a document and each column corresponds to a unique term in the vocabulary. The values in the matrix represent the TF-IDF scores for each term in each document.\
 3-linear kernel: is used to compute the cosine similarity between documents represented as vectors in a vector space model.
+**I applied these steps to three different models, adjusting their attributes to achieve higher cosine similarity scores.** 
